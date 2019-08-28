@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/Users/lutton/Downloads/potd-q6'
+let g:netrw_dirhist_2='/Users/lutton/Downloads/potd-q12'
+let g:netrw_dirhist_3='/Users/lutton/Desktop/cs-126/naive-bayes-liamlutton/digitdata'
